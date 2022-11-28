@@ -2,4 +2,6 @@
 this is my first repo
 
 
-2564852-5566
+Name : เนติธร ศรีมี
+id : 653450292-4
+e-mail : natithorn.s@kkumail.com
